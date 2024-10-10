@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+#box1,#box2{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+
+}
+
+
+h1{
+    padding-right: 41px;
+}
